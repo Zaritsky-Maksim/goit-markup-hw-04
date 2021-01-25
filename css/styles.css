@@ -1,5 +1,6 @@
 body {
     font-family: Roboto, sans-serif;
+    margin: 0px;
 }
 
 #portfolio-studio  a {
@@ -269,7 +270,6 @@ h2{
 
 .activity {
     margin-bottom: 94px;
-    width: 100vw;
 }
 
 .activity-main{
@@ -294,10 +294,7 @@ h2{
     display: flex;
     justify-content: center;
     background-color: #F5F4FA;
-    background-position: center;
     height: 708px;
-    width: 1600px;
-    width: 100vw;
     margin: auto;
     margin-bottom: 94px;
 }
@@ -319,8 +316,9 @@ h2{
     display: flex;
     text-align: center;
     justify-content: center;
-    margin-left: auto;
-    margin-right: auto;
+    text-align: center;
+    width: 1200px;
+    width: 100%;
 }
 
 .command .member + .member{
@@ -403,8 +401,6 @@ p.profession{
 footer{
     background-color: #2F303A;
     height: 252px;
-    width: 1600px;
-    width: 100vw;
     margin: auto;
 }
 
